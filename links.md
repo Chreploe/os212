@@ -2,7 +2,7 @@
 ## :house:[Home](index.md) | :clock5:[Log](https://chreploe.github.io/os212/TXT/mylog.txt) | :ballot_box_with_check:[Links](links.md) |:diamond_shape_with_a_dot_inside:[GitHub](https://github.com/Chreploe/os212)
 
 **LINKS**
-1. [Satu](https://os.vslm.org)<br>
+1. [Satu](https://os.vlsm.org)<br>
 Link ini adalah link untuk mata kuliah Sistem Operasi.
 Kita dapat menemukan banyak materi berharga di sini.
 
@@ -10,7 +10,7 @@ Kita dapat menemukan banyak materi berharga di sini.
 Link website akademis Fasilkom. 
 Sangatlah berguna untuk mengakses semua mata kuliah kita.
 
-3. [Tiga](https://cs.colosate.edu/helpdocs/vi.html)<br>
+3. [Tiga](https://www.cs.colosate.edu/helpdocs/vi.html)<br>
 Link ini berisi commands dasar text editor vi.
 Link ini sangat berguna jika kita lupa commands dasar vi. 
 
