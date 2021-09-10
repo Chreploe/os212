@@ -9,5 +9,5 @@ ZCZC W00 100 L02 ZOOM meetings related
 ZCZC W00  30 L06 References/Books/Documents/GSGS related
 ZCZC W00   5 L05 Quiz Related
 ZCZC W01 100 L02 ZOOM meetings 6 September 2021
-ZCZC W01 360 L09 Assignment Week 01
-ZCZC W01 100 L02 ZOOM meetings 9 September 2021 
+ZCZC W01 360 L09 Assignment Week 01 #01-#09
+ZCZC W01  60 L02 ZOOM meetings 9 September 2021 
