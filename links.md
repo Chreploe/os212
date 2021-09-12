@@ -6,15 +6,18 @@ permalink: /LINKS/
 
 **LINKS**
 1. [OS VLSM](https://os.vlsm.org)<br>
-Link ini adalah link untuk mata kuliah Sistem Operasi.
-Kita dapat menemukan banyak materi berharga di sini.
+This is the main source for OS course.
+Many useful information can be found here.
 
-2. [Scele](https://scele.cs.ui.ac.id)<br>
-Link website akademis Fasilkom. 
-Sangatlah berguna untuk mengakses semua mata kuliah kita.
+2. [Basic Linux Commands](https://linoxide.com/essential-linux-basic-commands/)<br>
+This link contains basic Linux commands. 
+Useful for OS course because we use Linux all the time.
 
 3. [Vi Commands](https://www.cs.colostate.edu/helpdocs/vi.html)<br>
-Link ini berisi commands dasar text editor vi.
-Link ini sangat berguna jika kita lupa commands dasar vi. 
+This link contains the basic commands of Vi.
+Very useful if you are using Vim for editing. 
+
+4. [AWK Command](https://www.geeksforgeeks.org/awk-command-unixlinux-examples/)<br>
+This link contains AWK commands. Useful for scripting.
 
 **@Chreploe**
