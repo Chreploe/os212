@@ -32,5 +32,7 @@ Cyber Security Introduction Part 1. Video length: 2 hours, 7 minutes, 7 seconds.
 Cyber Security Introduction Part 2. Video length: 2 hours, 26 minutes.
 3. [Learning C Language](https://www.programiz.com/c-programming)<br>
 C Language can be used to develop software like operating systems. This link provides us tutorial to learn C programming.
+4. [What is GPG/PGP](https://www.privex.io/articles/what-is-gpg)<br>
+This week we generate GPG key. But what is GPG key? This link provides information about GPG key.
 
 **@Chreploe**
