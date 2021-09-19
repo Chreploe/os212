@@ -17,3 +17,5 @@ ZCZC W01  10 L64 Anwering questions related to OS
 ZCZC W02  20 L05 Quiz Week01
 ZCZC W02 100 L02 Zoom meeting 13 September 2021
 ZCZC W02 180 L09 Assignment Week 02 #04-#13
+ZCZC W02  80 L02 Zoom meeting 16 September 2021
+ZCZC W02 100 L09 Reading, watching videos, prepare for quiz
