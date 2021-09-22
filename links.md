@@ -35,4 +35,12 @@ C Language can be used to develop software like operating systems. This link pro
 4. [What is GPG/PGP](https://www.privex.io/articles/what-is-gpg)<br>
 This week we generate GPG key. But what is GPG key? This link provides information about GPG key.
 
+**Week 03**
+1. [Filesystem Hierarchy Standard](https://refspecs.linuxfoundation.org/FHS_3.0/fhs-3.0.pdf)<br>
+This link will direct us into a pdf that explain about Filesystem Hierarchy Standard. This link is from OS WEEK 03 pdf. There we can find guidelines for file and directory placement under UNIX-like OS.
+2. [Filesystem in Userspace](https://en.wikipedia.org/wiki/Filesystem_in_Userspace)<br>
+This week we learn about FUSE. But what is FUSE? This link can give us a brief explaination about FUSE.
+3. [What is Mount?](https://en.wikipedia.org/wiki/Mount_(computing))<br>
+This week, we heard a lot the word "Mount". But what is "Mount"? This link will give us a brief explaination about mount in computing.
+
 **@Chreploe**
