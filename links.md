@@ -43,4 +43,12 @@ This week we learn about FUSE. But what is FUSE? This link can give us a brief e
 3. [What is Mount?](https://en.wikipedia.org/wiki/Mount_(computing))<br>
 This week, we heard a lot the word "Mount". But what is "Mount"? This link will give us a brief explaination about mount in computing.
 
+**Week 04**
+1. [Little and Big Endian](https://www.geeksforgeeks.org/little-and-big-endian-mystery/)<br>
+This week we learn about pointers and storing data into memory. We heard a lot about little and big endian. This link will give us explanation about little and big endian.
+2. [C Pointers](https://www.programiz.com/c-programming/c-pointers)<br>
+When studying this week material, we heard about pointers, pointers of pointers, etc. This link will give us explanation on how to use pointers in C programming language.
+3. [C - Structures](https://www.tutorialspoint.com/cprogramming/c_structures.htm)<br>
+In C programming language there is this thing called Structures, but what is it? This link will give us explanation about what Structures is and how to use it.
+ 
 **@Chreploe**
