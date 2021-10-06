@@ -29,3 +29,6 @@ ZCZC W04 105 L02 Zoom meeting 27 September 2021
 ZCZC W04  60 L09 Assignment Week 04 #04-#09
 ZCZC W04 120 L02 Zoom meeting 30 September 2021
 ZCZC W04  60 L09 Assignment Week 04 #01-#03
+ZCZC W05  20 L05 Quiz Week04
+ZCZC W05 100 L02 Zoom meeting 4 Oktober 2021
+ZCZC W05 135 L09 Assignment Week 05 #04-#09

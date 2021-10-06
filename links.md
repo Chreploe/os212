@@ -50,5 +50,13 @@ This week we learn about pointers and storing data into memory. We heard a lot a
 When studying this week material, we heard about pointers, pointers of pointers, etc. This link will give us explanation on how to use pointers in C programming language.
 3. [C - Structures](https://www.tutorialspoint.com/cprogramming/c_structures.htm)<br>
 In C programming language there is this thing called Structures, but what is it? This link will give us explanation about what Structures is and how to use it.
- 
+
+**Week 05**
+1. [Virtual vs Physical Memory](https://pediaa.com/what-is-the-difference-between-physical-and-virtual-memory/)<br>
+This week we learn that there are Virtual and Physical Memory, but what is the difference between them? This link will educate us about the difference between them.
+2. [Memory Paging](https://en.wikipedia.org/wiki/Memory_paging)<br>
+What is memory paging? By clicking this link, you can learn about it.
+3. [Memory Management](https://www.tutorialspoint.com/operating_system/os_memory_management.htm)<br>
+Curious about what memory management is? Click this link to know more about it. 
+
 **@Chreploe**
