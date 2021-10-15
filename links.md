@@ -59,4 +59,12 @@ What is memory paging? By clicking this link, you can learn about it.
 3. [Memory Management](https://www.tutorialspoint.com/operating_system/os_memory_management.htm)<br>
 Curious about what memory management is? Click this link to know more about it. 
 
+**Week 06**
+1. [Fork in C](https://www.geeksforgeeks.org/fork-system-call/)<br>
+This week we learn about fork in C language. But what is fork and what does it do? Click this link to know more about it.
+2. [Concurrency vs Parallelism](https://www.geeksforgeeks.org/difference-between-concurrency-and-parallelism/)<br>
+In OS, there are concurrency and parallelism. But what are they and what is the difference between them? Click this link to know more about it.
+3. [Process Scheduling](https://www.guru99.com/process-scheduling.html)<br>
+This week we also learn about process scheduling. How does it work? Click this link to find out.
+
 **@Chreploe**

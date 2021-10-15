@@ -38,3 +38,9 @@ ZCZC W05  30 L23 Extract Tarball and Read Score
 ZCZC W05  40 L01 Open Scele and discord
 ZCZC W05  20 L64 Helping friend with C
 ZCZC W05  15 L18 Update Log
+ZCZC W06  20 L05 Quiz Week05
+ZCZC W06 180 L32 Asynchronous Learning Via Youtube
+ZCZC W06 120 L02 Zoom meeting 14 Oktober 2021
+ZCZC W06  60 L09 Assignment Week 06 #04-#09
+ZCZC W06  30 L01 Open Scele and discord
+ZCZC W06  20 L64 Helping and Teaching friend about OS
