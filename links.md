@@ -67,4 +67,12 @@ In OS, there are concurrency and parallelism. But what are they and what is the 
 3. [Process Scheduling](https://www.guru99.com/process-scheduling.html)<br>
 This week we also learn about process scheduling. How does it work? Click this link to find out.
 
+**Week 07**
+1. [Process Synchronization in Operating Systems](https://study.com/academy/lesson/process-synchronization-in-operating-systems-definition-mechanisms.html)<br>
+This week we learn about synchronization in OS. To learn more about it, click this link.
+2. [Threads in Operating Systems](https://www.javatpoint.com/threads-in-operating-system)<br>
+In Operating Systems there is this thing called threads. What is it? Click this link to learn about it.
+3. [Semaphores in Operating Systems](https://www.tutorialspoint.com/semaphores-in-operating-system)<br>
+This week we also learn about semaphores in OS. Click this link to learn more about it.
+
 **@Chreploe**
