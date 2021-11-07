@@ -53,3 +53,7 @@ ZCZC W07  45 L02 Zoom meeting 1 November 2021
 ZCZC W07 110 L32 Asynchronous Learning Via Youtube
 ZCZC W07 105 L09 Assignment Week 07 #04-#09
 ZCZC W07  30 L01 Open Scele and discord
+ZCZC W07  90 L09 Assignment Week 07 #01-#03
+ZCZC W07  60 L64 Teaching friend
+ZCZC W07 100 L02 Zoom meeting 4 November 2021
+ZCZC W07  30 L26 Trying C language
