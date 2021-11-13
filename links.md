@@ -75,4 +75,12 @@ In Operating Systems there is this thing called threads. What is it? Click this 
 3. [Semaphores in Operating Systems](https://www.tutorialspoint.com/semaphores-in-operating-system)<br>
 This week we also learn about semaphores in OS. Click this link to learn more about it.
 
+**Week 08**
+1. [Multiprocessor Scheduling](https://www.includehelp.com/operating-systems/multiprocessor-scheduling-in-operating-system.aspx)<br>
+This week we learn about multiprocessor scheduling in OS. It's important for us to understand what is that.
+2. [Multiprocessor Scheduling Algorithms](https://www.tutorialspoint.com/operating_system/os_process_scheduling_algorithms.htm)<br>
+There are several algorithms for multiprocessor scheduling. Click this link to learn more about it.
+3. [Two State Process Model](https://slaystudy.com/process-state-models-in-operating-system/)<br>
+What is Two State Process Model? Click this link to learn more about it.
+
 **@Chreploe**

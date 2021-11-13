@@ -57,3 +57,9 @@ ZCZC W07  90 L09 Assignment Week 07 #01-#03
 ZCZC W07  60 L64 Teaching friend
 ZCZC W07 100 L02 Zoom meeting 4 November 2021
 ZCZC W07  30 L26 Trying C language
+ZCZC W08  20 L05 Quiz Week07
+ZCZC W08 120 L32 Asynchronous Learning Via Youtube
+ZCZC W08 300 L09 Assignment Week 08 #01-#10
+ZCZC W08  30 L64 Teaching Friend
+ZCZC W08  30 L01 Open Scele and discord
+ZCZC W08 100 L02 Zoom meeting 11 November 2021
